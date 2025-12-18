@@ -2,7 +2,7 @@
 ```
 sorry there are images all over the place in this project, this was one of the issues i had while developing it was tidying it up.
 you can just go through each of the py files to see how i coded each of them and kinda my thought process behind it. morphing loop was the easiest because once i had one, the other one was simple
-there may be some bugs in the website that i've not caught yet. 
+there may be some bugs in the website that i've not caught yet. just found a bug where the website just suddenly quits after too many processes
 
 ```
 ## Run it
